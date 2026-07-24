@@ -69,12 +69,12 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/Happy Dog GIF by The Secret Life Of Pets.gif");
+    background-image: url("images/Happy Dog GIF.gif");
 }
 
 #gift-img-genius:hover {
     background-image: url("images/spolied.gif");
-}
+}.gif
 
 #gift-img-badass:hover {
     background-image: url("images/badass.gif");
